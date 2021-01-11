@@ -1,1 +1,1 @@
-# satellite-imagery-classification-using-CNN
+# Classification of Satellite imagery using CNN and transfer learning
